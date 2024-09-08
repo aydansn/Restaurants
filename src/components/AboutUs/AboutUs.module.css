@@ -1,0 +1,49 @@
+.soup {
+  width: 40%;
+}
+.us {
+  color: #232e3c;
+}
+.chain {
+  color: #5e6e82;
+  padding: 10px 190px 30px 0px;
+}
+.learn {
+  padding: 10px 50px;
+  background-color: #ffc554;
+  color: #5e6e82;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+.are {
+  padding: 10px 0px;
+  font-size: 50px;
+}
+.gorder {
+  color: #5e6e82;
+}
+.owner {
+  color: #5e6e82;
+  padding-left: 10px;
+}
+.sheflers {
+  width: 55%;
+  border-radius: 50%;
+}
+.who {
+  padding: 100px 0px 30px 80px;
+}
+.allAbot {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.allShef {
+}
+.uchluShef {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}

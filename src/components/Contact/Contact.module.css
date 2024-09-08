@@ -1,0 +1,70 @@
+.contact {
+  text-align: center;
+}
+.timig {
+  color: #232e3c;
+  padding: 70px 0px 0px 0px;
+}
+.mesafeler {
+  padding: 20px 100px;
+  background-color: #f9fafd;
+}
+.allhour {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.withUs {
+  font-size: 50px;
+  padding: 10px 0px 50px 0px;
+}
+.loc {
+  padding: 40px 60px;
+  background-color: white;
+  border-radius: 10px;
+}
+.loc2 {
+  padding: 20px 20px;
+  background-color: white;
+  border-radius: 10px;
+}
+.hours {
+  color: #ff806e;
+}
+
+.iconreng {
+  color: #ff806e;
+}
+.tele {
+  color: #ff806e;
+}
+.yanyanaLOc {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 0px;
+}
+.yanyanaLOc2 {
+  align-items: center;
+  row-gap: 10px;
+  padding: 10px 0px;
+}
+.monday {
+  color: black;
+}
+.green {
+  color: #748194;
+}
+.pm {
+  color: #748194;
+  padding: 0px 0px;
+}
+
+.reserv{
+  padding: 10px 60px;
+  background-color:#ff806e;
+  color:#748194;
+  border-radius: 10px;
+  border:none;
+
+}

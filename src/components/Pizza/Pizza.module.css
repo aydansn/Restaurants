@@ -1,0 +1,26 @@
+.allPizzas {
+  text-align: center;
+  padding: 50px 0px 0px 30px;
+}
+.velgul {
+  font-size: 40px;
+  color:#5e6e82;
+}
+.cafe {
+  padding: 20px 380px;
+  text-align: center;
+  align-items: center;
+  color: gray;
+}
+.rich {
+  padding: 0px 30px;
+  color: #5e6e82;
+}
+.starts {
+  color: #ff806e !important;
+}
+.qrag{
+    text-align: end;
+    width: 25%;
+    margin: 0px 0px 0px 925px;
+}

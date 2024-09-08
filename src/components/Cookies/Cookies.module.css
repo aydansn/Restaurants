@@ -1,0 +1,30 @@
+.allCok {
+  text-align: center;
+  align-items: center;
+  background-color: #f9fafd;
+}
+.allcookies {
+  padding: 30px 65px 100px 95px;
+}
+.yanYanaCook {
+  display: flex;
+gap:20px;
+  align-items: center;
+}
+.uchlu {
+  display: flex;
+  gap:20px;
+  align-items: center;
+}
+.big {
+  width: 40%;
+  border-radius: 5px;
+}
+.kru {
+  border-radius: 5px;
+  width: 30%;
+}
+.allimg{
+    display:grid;
+    row-gap: 20px;
+}

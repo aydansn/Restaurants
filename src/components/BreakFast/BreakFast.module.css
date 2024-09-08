@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&family=Inconsolata:wght@200..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Smooch+Sans:wght@700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap");
+.allsection {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  gap: 30px;
+}
+.breakFast {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  font-size: 20px;
+  color: #9da9bb;
+}
+.breakFast:hover {
+  color: black;
+}
+.lanch {
+  color: #9da9bb;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  margin-left: 400px;
+}
+.lanch:hover {
+  color: black;
+}
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&family=Inconsolata:wght@200..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Smooch+Sans:wght@700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap");
+.next {
+  margin: 0px 50px 30px 50px;
+}
+.allNext {
+  padding: 30px 50px;
+  background-color: #f9fafd;
+  border-radius: 10px;
+}
+.allBowl {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 50px;
+}
+.yanYanashi {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menuTitle {
+  color: #748194;
+  padding: 10px 55px 10px 0px;
+}
+.bread {
+  width: 120%;
+}
+.menuPrice {
+  color: red;
+}
+.menuAdi {
+  font-family: "Merriweather", serif;
+}
+.veggie {
+  padding-bottom: 20px;
+}
+
+.allDinner {
+  padding: 100px 0px 0px 0px;
+}

@@ -1,0 +1,42 @@
+.big {
+  padding: 100px 0px 0px 0px;
+}
+.allHung {
+  background-color: #0b1727;
+  text-align: center;
+  align-items: center;
+  position: relative;
+  padding: 70px 0px;
+}
+.yanYanaHung {
+  display: flex;
+
+  gap: 20px;
+  text-align: center;
+  align-items: center;
+}
+.hungry {
+  color: #fac153;
+}
+.texts {
+  text-align: start;
+  padding: 20px 0px 20px 620px;
+}
+.delivery {
+  color: white;
+  padding: 10px 0px;
+}
+.fri {
+  padding-left: 277px;
+  padding-bottom: 93px;
+  width: 48%;
+  position: absolute;
+}
+.order {
+  padding: 10px 50px;
+  background-color: #fac153;
+  color: #4d5969;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}

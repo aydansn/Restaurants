@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&family=Inconsolata:wght@200..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Smooch+Sans:wght@700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap");
+.free {
+  background-color: #f9fafd;
+}
+.allFeel {
+  padding: 30px 308px;
+  text-align: center;
+}
+.drop {
+  font-size: 40px;
+  font-family: "Merriweather", serif;
+}
+.let {
+  color: #5e6e82;
+  padding: 20px 0px;
+}
+.shot {
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  border: none;
+  margin-right: 280px;
+}
+.copy {
+  color: #677789;
+}
+.yanashi {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+.check {
+  width: 4%;
+}
+.yanYanaName {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  padding: 0px 150px 50px 150px;
+}
+.solInput {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.sagInput {
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.yours {
+  padding: 10px 300px 10px 20px;
+  border-radius: 5px;
+  border: 1px solid rgb(203, 203, 226);
+}
+.yours2 {
+  border-radius: 5px;
+  border: 1px solid rgb(203, 203, 226);
+  padding: 10px 300px 120px 20px;
+}

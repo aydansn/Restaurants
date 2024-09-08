@@ -1,0 +1,39 @@
+.allsub {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 190px 30px 80px;
+}
+.before {
+  font-size: 45px;
+}
+.was {
+  padding: 15px 0px;
+  color: #5e6e82;
+  font-size: 18px;
+  line-height: 25px;
+}
+img {
+  width: 80%;
+}
+
+.yanYana2 {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+.btn1 button {
+  padding: 10px 50px;
+  background-color: #ffc554;
+  color: #5e6e82;
+  border: none;
+  border-radius: 10px;
+}
+.btn2 button {
+  padding: 10px 50px;
+  background-color: white;
+  color: #ffc554;
+  border: none;
+  border: 3px solid #ffc554;
+  border-radius: 10px;
+}

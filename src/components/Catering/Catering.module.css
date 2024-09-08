@@ -1,0 +1,44 @@
+.allCatering {
+  text-align: center;
+  background-color: #f9fafd;
+  padding: 50px 0px;
+}
+.allow {
+  padding: 20px 265px 100px 265px;
+  color: #5e6e82;
+}
+.Catering {
+  color: #232e3c;
+}
+.manage {
+  padding-bottom: 20px;
+  font-size: 50px;
+}
+.pankek {
+  margin: 0px 265px;
+  padding: 0px 20px;
+  border-radius: 10px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+.cake{
+    width: 50%;
+}
+.cater{
+    padding: 45px 75px 30px 45px;
+    color:#5e6e82;
+}
+.btncat{
+    padding: 10px 50px;
+    background-color: #ffc554;
+    color: #5e6e82;
+    border: none;
+    border-radius: 10px;
+}
+.pankText{
+    text-align: center;
+    align-items:center;
+}
